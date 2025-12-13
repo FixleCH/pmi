@@ -14,9 +14,9 @@ PMI è un tool CLI che permette di diagnosticare e gestire l'ambiente di svilupp
 
 ---
 
-## Installazione locale
+## Installazione 
 
-Se vuoi usare `pmi` sul tuo computer senza pubblicarlo su npm:
+Per installare `pmi` sul tuo computer basta eseguire questi passaggi:
 
 1. Clona il repository:
 
@@ -49,13 +49,13 @@ pmi doctor
 
 | Comando           | Descrizione                                    |
 | ----------------- | ---------------------------------------------- |
-| `pmi doctor`      | Diagnostica completo dell'ambiente di sviluppo |
+| `pmi doctor`      | Diagnostica completa dell'ambiente di sviluppo |
 | `pmi install`     | Installa un pacchetto o dipendenza             |
 | `pmi update`      | Aggiorna pacchetti o dipendenze                |
 | `pmi clean`       | Pulisce cache e file temporanei                |
 | `pmi uninstall`   | Rimuove un pacchetto o dipendenza              |
 | `pmi self-update` | Aggiorna PMI stesso                            |
-| `pmi dockerize`   | Gestisce container Docker                      |
+| `pmi dockerize`   | Genera un file di prova `Dockerfile`          |
 
 ---
 
