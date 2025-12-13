@@ -1,0 +1,30 @@
+{
+  "name": "pmi",
+  "version": "1.0.0",
+  "description": "PMI - Package Manager Interface",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "pmi": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "doctor": "node index.js doctor"
+  },
+  "keywords": [
+    "package",
+    "manager",
+    "cli",
+    "pmi"
+  ],
+  "author": "DCS - Center Founder",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.5",
+    "unzipper": "^0.10.11"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
