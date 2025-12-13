@@ -21,7 +21,7 @@ Se vuoi usare `pmi` sul tuo computer senza pubblicarlo su npm:
 1. Clona il repository:
 
 ```bash
-git clone https://github.com/TUO_USERNAME/pmi.git
+git clone https://github.com/HNOWFoundation/pmi.git
 cd pmi
 ````
 
