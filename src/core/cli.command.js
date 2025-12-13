@@ -1,4 +1,3 @@
-// Esempio CORRETTO
 import { installCommand } from '../../commands/cli/install.command.js';
 import { updateCommand } from '../../commands/cli/update.command.js';
 import { doctorCommand } from '../../commands/cli/doctor.command.js';
