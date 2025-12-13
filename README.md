@@ -28,7 +28,7 @@ cd pmi
 2. Installa le dipendenze:
 
 ```bash
-npm install
+sudo npm install 
 ```
 
 3. Collega `pmi` come comando globale:
