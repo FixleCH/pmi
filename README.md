@@ -12,7 +12,7 @@ Supporta Node.js, npm, Yarn, PHP, Composer e Docker con comandi reali e interatt
 - Gestione completa Docker: container, immagini, compose, log, shell, stats
 - Pulizia automatica di cache, build e dipendenze
 - Audit di sicurezza sulle dipendenze
-- Generazione Dockerfile multi-stage per Node.js, PHP, Python, Go
+- Generazione Dockerfile multi-stage per Node.js, PHP, Python, Go 
 - Supporta ES modules, Node.js >= 18, Better Comments
 
 ---
