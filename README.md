@@ -1,5 +1,5 @@
 # PMI — Package Manager Interface
-
+ 
 PMI è un tool CLI che permette di diagnosticare, gestire e containerizzare l'ambiente di sviluppo.
 Supporta Node.js, npm, Yarn, PHP, Composer e Docker con comandi reali e interattivi.
 
